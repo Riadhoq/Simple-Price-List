@@ -55,7 +55,7 @@ h3 {
 
 @media screen and (max-width: 400px) {
   body{
-  font-size:7pt;
+  font-size:9pt;
   }
   ul {
     min-height: 320px;
